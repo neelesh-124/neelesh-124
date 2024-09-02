@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Neelesh from Jhansi, UP.
 - 👀 I’m interested in coding and development.
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning Back-end Web Development.
 - 💞️ I’m looking to collaborate on new projects which will offer a lot to learn.
 - 📫 How to reach me ;
 Mail - neeleshverma124@gmail.com
