@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neelesh-124" alt="neelesh-124" /></a> </p>
 
-- 🔭 I’m currently working on [e-com-store](https://github.com/neelesh-124/e-com-store)
+- 🔭 I’m currently working on [e-com-store](https://github.com/neelesh-124/e-com-store).
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular**.
 
-- 📄 More about me: [My Resume](https://drive.google.com/file/d/16vUpLTOPwumd7X63yTaEUghXZ_FhH8c5/view?usp=sharing)
+- 🚀 I'm looking to contribute on Open Source Projects.
 
 - 📫 Mail me at: **neeleshverma124@gmail.com**
 
